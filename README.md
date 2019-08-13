@@ -1,4 +1,4 @@
-# (React) Google Books Search -- Using Express.js, React.js, Node.js, MongoDB
+# (React) Google Books Search -- Assignment 16?
 
 ## Overview
 
@@ -6,4 +6,4 @@ Some book search/save application for the UT Coding Bootcamp assignment. I just 
 
 ## Demo
 
-*(React) Google Books Search* is deployed to Heroku. Please check it out [here](https://fathomless-falls-68758.herokuapp.com/)
+*(React) Google Books Search* is deployed to Heroku. Please check it out [here]()
